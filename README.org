@@ -1,0 +1,3 @@
+* monty hall simulator
+simulate monty hall problem
+モンティ・ホール問題をシミュレーションします
